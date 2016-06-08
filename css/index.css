@@ -1,0 +1,39 @@
+body {
+  background-image: linear-gradient(to left top, violet, orange);
+}
+
+.nav {
+  padding: 24px;
+}
+
+.nav-right {
+  text-align: right;
+}
+
+.nav > a {
+  margin-bottom: 0;
+}
+
+#resume {
+  background-color: White;
+  border: 1px solid black;
+}
+
+dl {
+  list-style: none;
+  overflow: hidden;
+}
+
+dt, dd {
+  display: inline-block;
+  padding: 0;
+  width: 50%;
+}
+
+dd {
+  text-align: right;
+}
+
+.section {
+  margin-bottom: 24px;
+}
