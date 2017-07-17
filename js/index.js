@@ -2,7 +2,6 @@ $(document).foundation();
 
 var app = {
   init: function() {
-    $('.ja').css({ "display": "none" });
     this.setupEventHandlers();
   },
 

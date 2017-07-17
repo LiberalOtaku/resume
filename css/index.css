@@ -1,3 +1,7 @@
+.ja {
+  display: none;
+}
+
 body {
   background-image: linear-gradient(to left top, violet, orange);
 }
